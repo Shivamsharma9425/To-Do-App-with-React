@@ -109,7 +109,7 @@ function App() {
   return (
     <div className="App">
       
-      <h1><img src='Images\todo image.svg' width="60px" /><u>TO-DO APP</u></h1>
+      <h1><u>TO-DO APP</u></h1>
 
       <div className="todo-wrapper">
         {/* Todo Input Section */}

@@ -14,9 +14,7 @@ h1 {
   text-align: center;
   font-size: 2.6em;
 }
-h1>img {
-  margin-bottom:-14px;
-}
+
 
 .todo-wrapper {
   background: rgba(255, 255, 255, 0.2);
