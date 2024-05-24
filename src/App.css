@@ -1,12 +1,23 @@
 body {
-  background: linear-gradient(
+/*   background: linear-gradient(
     90deg,
     rgba(2, 0, 36, 1) 0%,
     rgba(9, 9, 121, 1) 35%,
     rgba(0, 212, 255, 1) 100%
   );
   color: white;
-  overflow: hidden;
+  overflow: hidden; */
+   background-color: #085463;
+}
+@media(max-width:735px){
+  .todo-input{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+  .todo-input-item button{
+    margin-top: -20px;
+  }
 }
 
 
